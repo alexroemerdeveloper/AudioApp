@@ -1,9 +1,9 @@
 //
 //  SceneDelegate.swift
-//  AudioApp
+//  Audio App
 //
-//  Created by Steffen Römer on 10.12.19.
-//  Copyright © 2019 Steffen Römer. All rights reserved.
+//  Created by Alexander Römer on 16.11.19.
+//  Copyright © 2019 Alexander Römer. All rights reserved.
 //
 
 import UIKit
